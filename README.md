@@ -5,3 +5,7 @@ Bootcamp with DIO
 [Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!](https://hermes.digitalinnovation.one/certificates/0PWTISMH.pdf)
 
 [Conceitos Fundamentais de IA](https://hermes.digitalinnovation.one/certificates/M9LUINRD.pdf)
+
+[Desafios de Projetos: Crie Um Portfólio Vencedor](https://hermes.digitalinnovation.one/certificates/KDNTZP24.pdf)
+
+
