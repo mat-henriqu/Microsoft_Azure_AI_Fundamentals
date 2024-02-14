@@ -8,4 +8,6 @@ Bootcamp with DIO
 
 [Desafios de Projetos: Crie Um Portfólio Vencedor](https://hermes.digitalinnovation.one/certificates/KDNTZP24.pdf)
 
+[Contribuindo em um Projeto Open Source no GitHub](https://hermes.digitalinnovation.one/certificates/QGJDRQVS.pdf)
+
 
